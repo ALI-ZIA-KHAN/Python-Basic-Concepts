@@ -1,5 +1,8 @@
 from random import*
-#in between in two
+##four basic attributes of random library 
+
+
+#in between in two no.s
 x=uniform(0,1)
 print(x)
 
